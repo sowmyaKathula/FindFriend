@@ -5,8 +5,8 @@ This Application provides user to have location track of two friends and also he
 ## [My Profile](https://sowmyakathula.github.io)
 
 ## Screenshot's
-![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/1.jpeg)
-![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/2.jpeg)
-![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/3.jpeg)
-![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/4.jpeg)
-![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/5.jpeg)
+![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/fd/1.jpeg)
+![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/fd/2.jpeg)
+![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/fd/3.jpeg)
+![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/fd/4.jpeg)
+![alt text](https://github.com/sowmyaKathula/FindFriend/blob/master/fd/fd/5.jpeg)
